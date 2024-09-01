@@ -1,0 +1,144 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+header{
+    text-align: center;
+    background-color: #E8E8E8;
+    height:345px;
+    /* width:100vw; */
+}
+nav{
+    padding: 10px 20px;
+    /* width:100vw; */
+    background-color: #333;
+    text-decoration: none;
+}
+a{
+    padding:10px 20px;
+    text-align: center;
+    color:#fff;
+    
+}
+img{
+    position:relative;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.pizza{
+    top:100px;
+}
+.burger{
+    left:60px;
+}
+section{
+    padding: 20px 1px;
+    display:inline-block;
+    width:45%;
+}
+.text{
+    padding: 10px 45px;
+    text-align: right;
+}
+div{
+    width:8vw;
+    height:8vw ;
+    position: absolute;
+}
+
+#frst{
+    top:40vw;
+    left:8vw;   
+    background-color: #7FFFD3;
+}
+#scnd{
+    top:48vw;
+    left:16vw;
+    background-color: #8A7EFF;
+
+}
+
+#thrd{
+    top:56vw;
+    left:24vw; 
+    background-color: #FF7F9C;
+}
+
+#forth{
+    top:48vw;
+    left:32vw;
+    background-color: #BDFF7F;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+}
+
+#fifth{
+    left:40vw; 
+    top:40vw;
+    /* margin-top:-22.9vw; */
+    background-color: #FEB97F;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#sixth{
+    left:50vw;
+    top:40vw;
+    background-color: #7FFFD3;
+}
+
+#seventh{
+    left:58vw;
+    top:48vw;
+    
+    
+    background-color: #8A7EFF;
+}
+
+#eightth{
+    left:66vw;
+    top:56vw;
+    
+    background-color: #FF7F9C;
+}
+
+#nineth{
+    left:74vw;
+    top:48vw;
+    background-color: #BDFF7F;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#tenth{
+    left:82vw;
+    top:40vw;
+    background-color: #FEB97F;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+}
+ article{
+    width:100%;
+    height: 100vh;
+ }
+footer{
+    text-align: center;
+    background-color: #333;
+}
+
+/* #frst, #scnd
+
+,#thrd
+
+,#forth
+
+,#fifth
+
+,#sixth
+
+,#seventh
+
+,#eightth
+,#nineth
+,#tenth{
+    margin-bottom:-2vw;
+} */
